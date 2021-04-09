@@ -8,6 +8,8 @@ sites:
     url: https://www.giveyun.com
   - name: GiveYun Iot
     url: https://iot.giveyun.com
+  - name: Huabot
+    url: https://huabot.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
