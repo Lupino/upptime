@@ -40,17 +40,17 @@
     "url": "https://huabot.com",
     "icon": "https://favicons.githubusercontent.com/huabot.com",
     "slug": "huabot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1205,
-    "timeDay": 1216,
-    "timeWeek": 1259,
-    "timeMonth": 1205,
-    "timeYear": 1205,
+    "time": 1203,
+    "timeDay": 1142,
+    "timeWeek": 1243,
+    "timeMonth": 1203,
+    "timeYear": 1203,
     "dailyMinutesDown": {}
   }
 ]
