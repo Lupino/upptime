@@ -13,7 +13,7 @@
     "time": 1337,
     "timeDay": 1090,
     "timeWeek": 1566,
-    "timeMonth": 1332,
+    "timeMonth": 1340,
     "timeYear": 1337,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1593,
     "timeDay": 1621,
     "timeWeek": 1742,
-    "timeMonth": 1572,
+    "timeMonth": 1578,
     "timeYear": 1593,
     "dailyMinutesDown": {}
   },
@@ -40,16 +40,16 @@
     "url": "https://huabot.com",
     "icon": "https://favicons.githubusercontent.com/huabot.com",
     "slug": "huabot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1223,
-    "timeDay": 1306,
-    "timeWeek": 1312,
-    "timeMonth": 1221,
+    "timeDay": 957,
+    "timeWeek": 1301,
+    "timeMonth": 1223,
     "timeYear": 1223,
     "dailyMinutesDown": {}
   }
