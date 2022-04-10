@@ -4,7 +4,7 @@
     "url": "https://www.giveyun.com",
     "icon": "https://favicons.githubusercontent.com/www.giveyun.com",
     "slug": "give-yun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1562,
     "timeDay": 1319,
-    "timeWeek": 1382,
+    "timeWeek": 1415,
     "timeMonth": 1276,
     "timeYear": 1563,
     "dailyMinutesDown": {}
