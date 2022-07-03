@@ -4,7 +4,7 @@
     "url": "https://www.giveyun.com",
     "icon": "https://favicons.githubusercontent.com/www.giveyun.com",
     "slug": "give-yun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1456,
     "timeDay": 1225,
-    "timeWeek": 1255,
-    "timeMonth": 1285,
+    "timeWeek": 1260,
+    "timeMonth": 1280,
     "timeYear": 1479,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1860,
     "timeDay": 1470,
-    "timeWeek": 1440,
+    "timeWeek": 1443,
     "timeMonth": 1471,
     "timeYear": 1916,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1122,
     "timeDay": 1104,
-    "timeWeek": 1076,
+    "timeWeek": 1081,
     "timeMonth": 1095,
     "timeYear": 1116,
     "dailyMinutesDown": {}
