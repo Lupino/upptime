@@ -4,7 +4,7 @@
     "url": "https://www.giveyun.com",
     "icon": "https://favicons.githubusercontent.com/www.giveyun.com",
     "slug": "give-yun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1450,
     "timeDay": 1173,
     "timeWeek": 1282,
-    "timeMonth": 1285,
+    "timeMonth": 1284,
     "timeYear": 1479,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://iot.giveyun.com",
     "icon": "https://favicons.githubusercontent.com/iot.giveyun.com",
     "slug": "give-yun-iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 1849,
     "timeDay": 1449,
     "timeWeek": 1443,
-    "timeMonth": 1457,
+    "timeMonth": 1456,
     "timeYear": 1906,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://huabot.com",
     "icon": "https://favicons.githubusercontent.com/huabot.com",
     "slug": "huabot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 1116,
     "timeDay": 1087,
     "timeWeek": 1081,
-    "timeMonth": 1096,
+    "timeMonth": 1095,
     "timeYear": 1115,
     "dailyMinutesDown": {}
   }
