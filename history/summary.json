@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1477,
     "timeDay": 1246,
-    "timeWeek": 1205,
+    "timeWeek": 1204,
     "timeMonth": 1287,
     "timeYear": 1487,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://iot.giveyun.com",
     "icon": "https://favicons.githubusercontent.com/iot.giveyun.com",
     "slug": "give-yun-iot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1159,
     "timeDay": 1119,
-    "timeWeek": 1070,
+    "timeWeek": 1072,
     "timeMonth": 1129,
     "timeYear": 1146,
     "dailyMinutesDown": {}
