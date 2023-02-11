@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1823,
     "timeDay": 3611,
-    "timeWeek": 1946,
+    "timeWeek": 1890,
     "timeMonth": 1893,
     "timeYear": 1605,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://huabot.com",
     "icon": "https://favicons.githubusercontent.com/huabot.com",
     "slug": "huabot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
